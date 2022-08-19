@@ -1,0 +1,11 @@
+{
+  "name": "typeScript_demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/wxysss/typeScript_demo.git",
+  "author": "wxysss <2044133993@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^4.7.4"
+  }
+}
